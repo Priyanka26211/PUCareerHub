@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button" type="id">button</item>
+    <item name="textView4" type="id">textview4</item>
+    <item name="user_email" type="id">email</item>
+</resources>

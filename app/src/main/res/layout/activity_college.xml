@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CollegeActivity"
+    android:background="@drawable/img_3">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="32dp"
+        android:fontFamily="@font/abril_fatface"
+        android:text="Department and College"
+        android:textColor="@android:color/secondary_text_dark_nodisable"
+        android:textSize="33sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttonParulInstituteofArchitectureandResearch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Parul Institute Of Architecture and Research"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="95dp" />
+
+    <Button
+        android:id="@+id/buttonParulInstituteofTechnology"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Parul Institute Of Technology"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.489"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="182dp" />
+
+    <Button
+        android:id="@+id/buttonParulInstituteofEngineeringandTechnology"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Parul Institute Of Engineering and Technology"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="248dp" />
+
+    <Button
+        android:id="@+id/buttonParulInstituteofPharmacyandResearch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Parul Institute Of Pharmacy and Research"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="330dp" />
+
+    <Button
+        android:id="@+id/buttonParulInstituteofPharmacy"
+        android:layout_width="315dp"
+        android:layout_height="45dp"
+        android:text="Parul Institute Of Pharmacy"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="416dp" />
+
+    <Button
+        android:id="@+id/buttonParulInstituteofPhysiotherapy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Parul Institute Of Physiotherapy"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="479dp" />
+
+    <Button
+        android:id="@+id/buttonParulInstituteofManagementandResearch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Parul Institute Of Management and Research"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.527"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="571dp" />
+
+    <Button
+        android:id="@+id/buttonParulInstituteofMedicalScienceandResearch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Parul Institute Of Medical Science and Research"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="645dp" />
+
+    <Button
+        android:id="@+id/buttonParulPolytechnicInstitute"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Parul Polytechnic Institute"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="745dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
