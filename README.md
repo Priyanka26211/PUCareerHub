@@ -31,5 +31,6 @@ Welcome to **PUCareerHub**! This Android application is specially designed for P
 
 ## 🌐 Resources
 
+- https://github.com/Priyanka26211/PUCareerHub
 - [Parul University Official Website](https://www.paruluniversity.ac.in/)
 - [Android Developers Documentation](https://developer.android.com/)
